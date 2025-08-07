@@ -1,1 +1,7 @@
-hey guys
+# Animated To-Do List
+
+A simple to-do list web app with fun animations.
+
+## Usage
+
+Open `index.html` in your browser to start adding tasks. Click a task to mark it complete or click the ✖ icon to remove it.
